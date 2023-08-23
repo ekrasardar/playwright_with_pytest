@@ -1,0 +1,6 @@
+pytest-testrail==2.9.0
+pytest-xdist==3.2.1
+playwright~=1.30.0
+pytest~=7.2.1
+typing~=3.7.4.3
+pytest-playwright==0.4.2
